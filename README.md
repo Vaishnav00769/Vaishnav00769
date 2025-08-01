@@ -1,14 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vaishnav00769/Vaishnav00769/main/banner.png" alt="Vaishnav Agarwal Banner" width="100%" />
+</p>
+
 <h1 align="center">Vaishnav Agarwal</h1>
 
 <p align="center">
   Aspiring AI/ML Engineer | CMR Technical Campus (2023–2027)<br>
   Focused on Building Real-World AI Solutions as a Learner and Developer
-</p>
-
-<p align="center">
-  <a href="mailto:agarwalvaishnav007@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/">LinkedIn</a> • 
-  <a href="https://vaishnav00769.github.io/Portfolio/">Portfolio</a>
 </p>
 
 <p align="center">
@@ -20,10 +18,9 @@
 ## About Me
 
 I'm Vaishnav Agarwal, a Computer Science undergraduate on a focused journey to become a professional AI/ML Engineer.  
-Every project I build is an opportunity to learn — from data preprocessing and modeling to deployment and UI design.
+I build projects to learn practical AI/ML workflows — from data preprocessing and model development to full-stack deployment.
 
-My long-term goal is to work at the forefront of AI innovation in organizations like **OpenAI**, **Google DeepMind**, or similar.  
-I'm currently gaining experience by designing and building end-to-end applications in Python with an emphasis on machine learning and LLMs.
+My long-term goal is to work at companies like **OpenAI**, **Google DeepMind**, or other leading AI labs, solving meaningful real-world problems using intelligent systems.
 
 ---
 
@@ -33,21 +30,17 @@ I'm currently gaining experience by designing and building end-to-end applicatio
   Sends personalized emails using OpenRouter LLMs and a Streamlit frontend. A hands-on project for prompt engineering and deployment.
 
 - **[AI Travel Planner](https://github.com/Vaishnav00769/AI-Travel-Planner)**  
-  Creates real-time travel itineraries with Hugging Face + DeepSeek APIs. Built to explore full-stack AI development.
+  Real-time itinerary builder using Hugging Face + DeepSeek APIs. Explores prompt chaining and input parsing.
 
 - **[Fraud Detection System](https://github.com/Vaishnav00769/Fraud-Detection-System)**  
-  Machine learning system trained on 6M+ financial transactions using Random Forest. Built to master preprocessing and evaluation.
+  Machine learning pipeline trained on 6M+ transactions using Random Forest. Built for mastering preprocessing and evaluation.
 
 ---
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" title="Python & C++"/>  
-</p>
-
-<p align="center">
-  <b>Data Structures & Algorithms:</b> Solved 200+ problems across CodeChef, LeetCode, Codeforces, SPOJ  
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi" />  
 </p>
 
 <p align="center">
@@ -55,7 +48,9 @@ I'm currently gaining experience by designing and building end-to-end applicatio
 </p>
 
 <p align="center">
-  <b>Tools:</b> Git • GitHub • Streamlit • LaTeX • REST APIs  
+  <b>DSA:</b> Solved 200+ problems on platforms like CodeChef, LeetCode, Codeforces, and SPOJ  
+  <br>
+  <b>Other Tools:</b> REST APIs • Prompt Engineering • OpenRouter API  
   <br>
   <b>Certified:</b> NPTEL – Introduction to IoT • Infosys – NLP & Data Science • NextWave – AI
 </p>
@@ -73,12 +68,26 @@ I'm currently gaining experience by designing and building end-to-end applicatio
 
 ## Career Goal
 
-To work as an **AI/ML Engineer** in a leading tech company, contributing to the design of intelligent, ethical, and impactful systems.  
-Until then, I’m learning by building — solving problems, exploring architectures, and deploying real projects to sharpen my edge.
+To work as an **AI/ML Engineer** in a top-tier company, designing intelligent, ethical, and efficient systems.  
+Until then, I’m building, learning, and showcasing what I can do — one project at a time.
 
 ---
 
 <p align="center">
   "Building artificial intelligence that serves people, not just benchmarks."<br>
   <b>– Vaishnav Agarwal</b>
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:agarwalvaishnav007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/vaish_007_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
