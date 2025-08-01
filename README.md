@@ -30,7 +30,7 @@ My ambition is to contribute to cutting-edge AI research at organizations like *
 - **[Fraud Detection System](https://github.com/Vaishnav00769/Fraud-Detection-System)**  
   Random Forest classifier detecting fraudulent transactions with 94% accuracy
 
-- **[Computer Vision Toolkit](https://github.com/Vaishnav00769/)**  
+- **[AI Travel Planner](https://github.com/Vaishnav00769/AI-Travel-Planner)**  
   Real-time object detection using OpenCV and YOLO (Work in Progress)
 
 ---
