@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Vaishnav00769/Vaishnav00769/assets/59158408/5e3c1a4f-2f9e-4c5e-8f1f-6c5c1a8e3a1b" alt="AI Developer Banner" width="100%" />
-</p>
-
 <h1 align="center">Vaishnav Agarwal</h1>
 
 <p align="center">
