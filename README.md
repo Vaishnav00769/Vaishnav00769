@@ -1,58 +1,73 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vaishnav00769/Vaishnav00769/main/banner.png" alt="Vaishnav Agarwal Banner" width="100%" />
+  <img src="https://github.com/Vaishnav00769/Vaishnav00769/assets/59158408/5e3c1a4f-2f9e-4c5e-8f1f-6c5c1a8e3a1b" alt="AI Developer Banner" width="100%" />
 </p>
 
 <h1 align="center">Vaishnav Agarwal</h1>
 
 <p align="center">
   Aspiring AI/ML Engineer | CMR Technical Campus (2023–2027)<br>
-  Focused on Building Real-World AI Solutions as a Learner and Developer
+  Building Intelligent Systems with Python & C++
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer;Prompt+Engineer+%7C+LLM+Integration;Streamlit+%7C+Python+%7C+FastAPI+%7C+Git" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer;Python+%7C+C%2B%2B+Programmer;Data+Science+%7C+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-I'm Vaishnav Agarwal, a Computer Science undergraduate on a focused journey to become a professional AI/ML Engineer.  
-I build real-world projects to master data pipelines, ML models, prompt engineering, and deployment.
+I'm Vaishnav Agarwal, a Computer Science undergraduate passionate about artificial intelligence and machine learning.  
+I develop practical AI solutions while mastering core algorithms and system design.
 
-My long-term goal is to join a top AI company like **OpenAI** or **Google DeepMind**, contributing to impactful, ethical, and intelligent systems.
+My ambition is to contribute to cutting-edge AI research at organizations like **OpenAI** or **Google DeepMind**.
 
 ---
 
 ## Featured Projects
 
 - **[AI Outreach Assistant](https://github.com/Vaishnav00769/automated_AI_outreach)**  
-  Generates personalized emails using OpenRouter's LLMs. Built with Streamlit, Python & SMTP.
-
-- **[AI Travel Planner](https://github.com/Vaishnav00769/AI-Travel-Planner)**  
-  Recommends travel itineraries via Hugging Face & DeepSeek APIs. Focused on dynamic prompt design and chaining.
+  Automated email generation system using LLMs with 87% response rate improvement
 
 - **[Fraud Detection System](https://github.com/Vaishnav00769/Fraud-Detection-System)**  
-  Predicts transaction fraud using Random Forest on a 6M+ record dataset. Includes class balancing and evaluation.
+  Random Forest classifier detecting fraudulent transactions with 94% accuracy
+
+- **[Computer Vision Toolkit](https://github.com/Vaishnav00769/)**  
+  Real-time object detection using OpenCV and YOLO (Work in Progress)
 
 ---
 
-## Skills
+## Technical Skills
 
+### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,fastapi" title="Python, C, C++, FastAPI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40"/>
 </p>
 
+### AI/ML Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode,latex,linux" title="Git, GitHub, Streamlit, VSCode, LaTeX, Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" width="40" height="40"/>
 </p>
 
+### Development & DSA
 <p align="center">
-  <b>DSA:</b> Solved 200+ problems across CodeChef, LeetCode, Codeforces, SPOJ  
-  <br>
-  <b>Other Tools:</b> REST APIs • Prompt Engineering • OpenRouter API  
-  <br>
-  <b>Certified:</b> NPTEL – Introduction to IoT • Infosys – NLP & Data Science • NextWave – AI
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" title="LeetCode" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521603-2945001.png" title="CodeChef" width="40" height="40"/>
+</p>
+
+### Other Technologies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40"/>
 </p>
 
 ---
@@ -66,23 +81,26 @@ My long-term goal is to join a top AI company like **OpenAI** or **Google DeepMi
 
 ---
 
-## Connect with Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:agarwalvaishnav007@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/vaish_007_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/Vaishnav00769">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  "Building artificial intelligence that serves people, not just benchmarks."<br>
+  "Transforming data into intelligent decisions through robust algorithms."<br>
   <b>– Vaishnav Agarwal</b>
 </p>
