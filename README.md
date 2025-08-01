@@ -80,7 +80,7 @@ My ambition is to contribute to cutting-edge AI research at organizations like *
 ## Connect With Me
 
 <p align="center">
-  <a href="mailto:agarwalvaishnav007@gmail.com" style="margin: 0 10px;">
+  <a href="agarwalvaishnav007@gmail.com" style="margin: 0 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/" style="margin: 0 10px;">
