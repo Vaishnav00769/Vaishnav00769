@@ -43,19 +43,21 @@ I'm currently gaining experience by designing and building end-to-end applicatio
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" title="Python & C++"/> &nbsp;
-  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-200%2B%20problems-blue" alt="DSA Badge"/>  
+  <img src="https://skillicons.dev/icons?i=python,cpp" title="Python & C++"/>  
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode" /> &nbsp;
-  <img src="https://skillicons.dev/icons?i=latex,linux" /> &nbsp;
+  <b>Data Structures & Algorithms:</b> Solved 200+ problems across CodeChef, LeetCode, Codeforces, SPOJ  
 </p>
 
 <p align="center">
-  <b>Platforms:</b> CodeChef • LeetCode • Codeforces • SPOJ<br>
-  <b>Tools:</b> Git • GitHub • Streamlit • LaTeX • REST APIs<br>
-  <b>Certified:</b> <i>NPTEL – Introduction to IoT | Infosys – NLP & Data Science | NextWave – AI</i>
+  <img src="https://skillicons.dev/icons?i=git,github,streamlit,vscode,latex,linux" />
+</p>
+
+<p align="center">
+  <b>Tools:</b> Git • GitHub • Streamlit • LaTeX • REST APIs  
+  <br>
+  <b>Certified:</b> NPTEL – Introduction to IoT • Infosys – NLP & Data Science • NextWave – AI
 </p>
 
 ---
