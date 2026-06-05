@@ -1,71 +1,59 @@
-
-
 <h1 align="center">Vaishnav Agarwal</h1>
 
 <p align="center">
-  Aspiring AI/ML Engineer | CMR Technical Campus (2023–2027)<br>
-  Building Intelligent Systems with Python & C++
+  Software Engineer | Full-Stack & High-Performance Computing<br>
+  Building Scalable Web Systems, AI Integrations, and C++ Engines
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Developer;Python+%7C+C%2B%2B+Programmer;Data+Science+%7C+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full-Stack;FastAPI+%7C+Next.js+%7C+Python;C%2B%2B+%7C+Competitive+Programming;AI+Systems+Integration" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-I'm Vaishnav Agarwal, a Computer Science undergraduate passionate about artificial intelligence and machine learning.  
-I develop practical AI solutions while mastering core algorithms and system design.
+I am a Software Engineer specializing in building scalable backend systems, integrating AI into production environments, and writing high-performance C++ code. 
 
-My ambition is to contribute to cutting-edge AI research at organizations like **OpenAI** or **Google DeepMind**.
+Currently, I develop full-stack applications and data pipelines, bridging the gap between core algorithmic problem solving (1450+ LeetCode problems solved) and modern web architectures. I thrive in fast-paced environments where I can ship features, optimize database queries, and build intelligent automation tools.
 
 ---
 
 ## Featured Projects
 
-- **[AI Outreach Assistant](https://github.com/Vaishnav00769/automated_AI_outreach)**  
-  Automated email generation system using LLMs with 87% response rate improvement
+- **[High-Performance N-Body Gravity Simulator](https://github.com/Vaishnav00769/)** *(In Progress)* Custom 2D physics engine built in **C++** using **SFML**, implementing optimized mathematical algorithms for real-time state calculations and rendering.
 
-- **[Fraud Detection System](https://github.com/Vaishnav00769/Fraud-Detection-System)**  
-  Random Forest classifier detecting fraudulent transactions with 94% accuracy
+- **[Full-Stack Secure Blog Platform](https://github.com/Vaishnav00769/)** Responsive web application featuring secure authentication and robust CRUD operations, built with **React**, **FastAPI**, and **SQLite**.
 
-- **[AI Travel Planner](https://github.com/Vaishnav00769/AI-Travel-Planner)**  
-  Real-time object detection using OpenCV and YOLO (Work in Progress)
+- **[Fraud Detection Data Pipeline](https://github.com/Vaishnav00769/Fraud-Detection-System)** Engineered a machine learning pipeline for processing 6M+ transactions, utilizing Scikit-learn and advanced class-balancing techniques.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+### Core Software Engineering
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" width="40" height="40" style="margin: 0 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="40" height="40" style="margin: 0 10px;"/>
 </p>
 
-### AI/ML Tools
+### AI/ML & Data
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="PyTorch" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="scikit-learn" width="40" height="40" style="margin: 0 10px;"/>
 </p>
 
-### Development & DSA
+### Tools & Competitive Programming
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VSCode" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40" style="margin: 0 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" title="LeetCode" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-codechef-3521603-2945001.png" title="CodeChef" width="40" height="40" style="margin: 0 10px;"/>
-</p>
-
-### Other Technologies
-<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="Bash" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" style="margin: 0 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" width="40" height="40" style="margin: 0 10px;"/>
 </p>
 
 ---
@@ -88,17 +76,7 @@ My ambition is to contribute to cutting-edge AI research at organizations like *
   <a href="https://www.linkedin.com/in/vaishnav-agarwal-9498542b0/" style="margin: 0 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/vaish_007_/" style="margin: 0 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
-  </a>
   <a href="https://github.com/Vaishnav00769" style="margin: 0 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="40" height="40"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  "Transforming data into intelligent decisions through robust algorithms."<br>
-  <b>– Vaishnav Agarwal</b>
 </p>
