@@ -15,7 +15,7 @@
 
 I am a Software Engineer specializing in building scalable backend systems, integrating AI into production environments, and writing high-performance C++ code. 
 
-Currently, I develop full-stack applications and data pipelines, bridging the gap between core algorithmic problem solving (1450+ LeetCode problems solved) and modern web architectures. I thrive in fast-paced environments where I can ship features, optimize database queries, and build intelligent automation tools.
+Currently, I develop full-stack applications and data pipelines, bridging the gap between core algorithmic problem solving  and modern web architectures. I thrive in fast-paced environments where I can ship features, optimize database queries, and build intelligent automation tools.
 
 ---
 
